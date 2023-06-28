@@ -1,2 +1,2 @@
-# lss-early-steps
+# Erste Schritte im Leitstellenspiel
 Only contains a Readme.md file
